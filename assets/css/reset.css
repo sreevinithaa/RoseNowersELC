@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+    margin-bottom: 5px;
+    color: hsla(289, 68%, 19%, 1);
+    font-weight: bolder;
+   padding: 10px;
+   border-radius: 5px;
+    font-size: 1.5rem;
+   margin-right: 15px;
+   background-color: white;
+ border: 5px solid hsla(263, 42%, 65%, 1);
+  }
+  h2{
+      font-size: 1rem;
+     
+  }
+  footer{
+    background-image: url("/assets/img/rose_4.jpg");
+    background-image: no-repeat;
+    color: white;
+    text-align: center;
+  }
+  main
+  {
+      width: 100%;
+      color: white;
+   
+  }
+  h3{
+
+  margin-left: 20px;
+  }
+  p{
+    margin-left: 20px;
+  }
